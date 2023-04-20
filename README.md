@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Leimus
-- 👀 I’m interested in Digital Banking, Online Payments, Blockchain and Crypto Currencies.
-- 🌱 I’m currently learning Harvards CS50 "Computer Science for Business Proffesionals"
-- 💞️ I’m looking to collaborate on Blockchain Protocols that work around Defi to help LATAM reach financial independence
 - 📫 How to reach me "lamedicajm@gmail.com"
 
 <!---
